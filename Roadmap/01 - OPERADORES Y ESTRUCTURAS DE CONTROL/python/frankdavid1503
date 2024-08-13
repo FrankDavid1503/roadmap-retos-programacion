@@ -1,0 +1,91 @@
+# operadores aritmeticos 
+print(f"suma: 10 + 3 = {10+3}") 
+print(f"resta: 14 - 3 = {14-3}")
+#comparacion 
+print(f"igualdad: 10 == 3 = {10==3}")
+print(f"mayor que: 10 > 3 = {10>3}")
+print(f"menor que : 10 < 3 = {10<3}")
+print(f" mayor o igual que : 10 >= 3 = {10 >= 3}")
+print(f" diferente : 10 != 3 = {10!=3}")
+print(f" division : 10 / 3 = {10/ 3}")
+
+print(f" Módulo : 10 % 3 = {10%3}")
+
+print(f"exponente: 10 ** 3 = {10**3}")
+
+print(f" division entera: 10 // 3 = {10//3}")
+
+# logicos
+
+print(f"And &&: 10 + 3= 4 and 4 - 3 =  1 es {10 + 3= 4 and 4 - 3 =  1 }")
+
+print(f"or ||: 10-3=2 or 5+2= 7 es {10-3=2 or 5+2= 7 }")
+
+#asignación
+variable_1= 10
+  print(variable_1)
+    variable_1 -= 2
+
+
+#identidad 
+
+my_perro = my_gato
+  print( my_perro is my_gato es {my_perro is my_gato}) 
+
+
+#pertenencia
+
+print(f" 'a' in 'franklin' = {'a' in 'franklin'}") 
+
+print(f" 'u' not in 'flores' = {'u' not in 'flores'}")
+
+#bits
+
+a= 11
+b= 2 
+
+print(f" AND: 11 & 2= {11 & 2}")
+
+#condicionales
+frank_xD = "flores"
+
+if frank_xD == "flores":
+  print( "frank_xD es 'flores'")
+
+#iterativas 
+
+for i in range (11):
+  print(i)
+
+  i= 0 
+while i >= 11:
+  print(i)
+    i -= 1
+
+    # excepciones
+
+try: 
+    print(10/0)
+except: 
+  print("Ha ocurrido un problema") 
+
+finally:
+   print("Ya estamos trabajando en ello, gracias") 
+   
+
+# TRABAJO OPCIONAL
+
+for i in range (10, 56)
+   if i % 2 == 0 and i != 16 and i % 3 != 0: 
+       print(i) 
+   
+  
+
+
+
+
+
+
+
+  
+  
